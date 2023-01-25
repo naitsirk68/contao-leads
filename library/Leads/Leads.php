@@ -11,7 +11,7 @@
 
 namespace Leads;
 
-use Haste\Util\Format;
+use Codefog\HasteBundle\Formatter;
 use Leads\Exporter\ExporterInterface;
 use Leads\Exporter\Utils\Row;
 use Leads\Exporter\Utils\Tokens;
