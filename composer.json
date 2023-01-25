@@ -1,5 +1,5 @@
 {
-    "name": "terminal42/contao-leads",
+    "name": "naitsirk68/contao-leads",
     "description": "Leads extension for Contao Open Source CMS; Store and manage form data with ease!",
     "keywords": ["contao", "form", "data", "store", "export"],
     "type": "contao-module",
